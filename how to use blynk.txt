@@ -1,0 +1,8 @@
+run the code
+then you will recive a token 
+paste the token in the code
+name the wifi ssid and pass
+it will connect to internet
+thats it!!
+
+                              -Varun Bharathi J

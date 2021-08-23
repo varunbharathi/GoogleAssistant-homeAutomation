@@ -1,0 +1,12 @@
+1)download FTTP app from playstore
+2)add applet
+3)this-->google assist
+4)that-->webhook(kind of stuff i really don't remember the name) :P
+5)in webhook it will ask theURL to send the web request URL format http://(ip address)/(token)/update/(the pin u selected eg.G5->D5)
+    hints:
+    content type:application/json
+    method:PUT
+    body:["1"] for on  (OR) ["0"] for off
+6)the you are good to go!!
+              
+                                                     -Varun Bharathi J
